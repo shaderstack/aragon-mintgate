@@ -1,0 +1,10 @@
+{
+    "environments": {
+        "default": {
+            "network": "rpc",
+            "appName": "foo.aragonpm.eth"
+        }
+    },
+    "path": "contracts/Test.sol",
+    "roles": []
+}
